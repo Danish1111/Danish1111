@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Danish Farooq</h1>
-<h3 align="center">iOS/Android(Native) developer</h3>
+<h1 align="left">Hi 👋, I'm Danish Farooq</h1>
+<h3 align="left">iOS/Android(Native) developer</h3>
 
+- I’m currently working on **Agribazaar**
 - 🔭 I’m currently working on **Agribazaar**
 
 - 📫 How to reach me **danish.itm@gmail.com**
